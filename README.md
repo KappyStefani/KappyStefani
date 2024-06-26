@@ -19,8 +19,8 @@
 
 👋 Olá! Eu sou o Giovanni, uma pessoa entusiasta por tecnologia e programação. Adoro explorar novas linguagens, frameworks e compartilhar conhecimento com a comunidade. 
 
-- 💻 Desenvolvedor(a) de C# e estudando Game design.
-- 🎨 Apaixonado(a) por jogos e músicas.
+- 💻 Desenvolvedor de C# e estudando Game design.
+- 🎨 Apaixonado por jogos e músicas.
 - ☕ Fã de café.
 
 ## Status Github
